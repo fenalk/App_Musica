@@ -1,16 +1,27 @@
 Aplicativo de música:
-- biblioteca ____ musicas (todas)
-            |_____ albuns adicionados 
-            |_____ playlists adicionadas e criadas
+- minha biblioteca ____ musicas 
+                  |_____ albuns adicionados 
+                  |_____ playlists adicionadas e criadas
+                  |_____ artistas (em ordem alfabética)
+                  |_____ downloads 
+                  
 
 
-- início _____ playlists publicas do app
-        |_____ ouvidos recentemente
+- biblioteca publica _____ playlists publicas do app
+                    |_____ ouvidos recentemente
 
 - pesquisa _____ pesquisar nome
-          |_____ filtrar por album, artista, playlist
+          |_____ filtrar por album, artista, playlista
           |_____ navegar por genero 
 
 - minha conta ______ configurações
              |_____ seguidores
              |_____ seguindo
+
+interface:
+- player ______ métodos()
+             |_____ play
+             |_____ pause
+             |_____ passar para musica adiante
+             |_____ retornar a musica anterior
+             |_____ volume
