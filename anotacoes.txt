@@ -11,7 +11,7 @@ Aplicativo de música:
                     |_____ ouvidos recentemente
 
 - pesquisa _____ pesquisar nome
-          |_____ filtrar por album, artista, playlista
+          |_____ filtrar por album, artista, playlist
           |_____ navegar por genero 
 
 - minha conta ______ configurações
